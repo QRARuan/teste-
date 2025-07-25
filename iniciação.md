@@ -14,7 +14,6 @@ Poderia me informar o CPF do titular, por gentileza?
 ```
 
 ### CPF já enviado <br><br>
-🙍‍♂️
 ```text
 Estarei conferindo verificando no sistema, Só um momento por gentileza 
 ```
