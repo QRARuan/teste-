@@ -20,30 +20,17 @@ Consegui acessar seu equipamento. Vou realizar o reinício agora. Por gentileza,
 O reinício foi concluído com sucesso! Por gentileza, poderia testar a conexão por alguns minutos e nos informar se a internet está estabilizada?
 ```
 
-### FALHA NO A.R.
-🙍‍♂️
+### Informar FALHA ao acessar equipamento  
 ```text
-Senhor, não foi possível acessar seu equipamento remotamente. Vou realizar um procedimento em nosso sistema, a internet irá cair por um breve momento mas logo voltará. Após isso, poderia testar a conexão por alguns minutos e nos informar se está estável?
+Não foi possível acessar seu equipamento remotamente. Vou realizar um procedimento em nosso sistema, a internet irá cair por um breve momento mas logo voltará. Após isso, poderia testar a conexão por alguns minutos e nos informar se está estábilizada?
 ```
-🙍‍♀️
+### PROCEDIMENTO - reinicio manual
 ```text
-Senhora, não foi possível acessar seu equipamento remotamente. Vou realizar um procedimento em nosso sistema, a internet irá cair por um breve momento mas logo voltará. Após isso, poderia testar a conexão por alguns minutos e nos informar se está estável?
+Poderia por gentileza realizar o seguinte procedimento? Por gentileza, desligue o modem e o roteador da tomada, aguarde 3 minutos e depois reconecte-os. Este procedimento costuma resolver muitos problemas de conexão. Enquanto isso, fico à disposição para qualquer dúvida.
 ```
-
-### PROCEDIMENTO
-🙍‍♂️
-```text
-O senhor poderia por gentileza realizar o seguinte procedimento? Por gentileza, desligue o modem e o roteador da tomada, aguarde 3 minutos e depois reconecte-os. Este procedimento costuma resolver muitos problemas de conexão. Enquanto isso, fico à disposição para qualquer dúvida.
-```
-🙍‍♀️
-```text
-A senhora poderia por gentileza realizar o seguinte procedimento? Por gentileza, desligue o modem e o roteador da tomada, aguarde 3 minutos e depois reconecte-os. Este procedimento costuma resolver muitos problemas de conexão. Enquanto isso, fico à disposição para qualquer dúvida.
-```
-
 ### TESTE DE VELOCIDADE
-🙍‍♂️
 ```text
-Senhor, para verificarmos precisamente a velocidade atual da conexão, por gentileza, realize um teste de velocidade da seguinte forma:
+Para verificarmos precisamente a velocidade atual da conexão, por gentileza, realize um teste de velocidade da seguinte forma:
 
 1. *Caso possua um dispositivo cabeado à internet (Computador, Notebook):*
   -Realize o teste diretamente por este dispositivo, por gentileza.
