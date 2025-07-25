@@ -1,13 +1,13 @@
 # mensagens padrões 
 
 ```text
-Bom dia! Me chamo Ruan nacimento, estarei realizando seu atendimento hoje
-```
-```text
 Bom dia! Me chamo Ruan nacimento, estarei realizando seu atendimento hoje. Como posso ajudar?
 ```
 ```text
 Bom dia! Me chamo Ruan nacimento, estarei dando continuidade ao seu atendimento
+```
+```text
+Bom dia! Me chamo Ruan nacimento, agradeço o envio do comrprovante ajudo em algo mais? 
 ```
 ```text
 Poderia me informar o CPF do titular, por gentileza?
@@ -16,7 +16,7 @@ Poderia me informar o CPF do titular, por gentileza?
 ### CPF já enviado <br><br>
 🙍‍♂️
 ```text
-Estarei conferindo a conexão no sistema, Só um momento por gentileza 
+Estarei conferindo verificando no sistema, Só um momento por gentileza 
 ```
 # Encerramentos
 #### Inatividade ❌
