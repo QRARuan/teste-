@@ -13,7 +13,7 @@ Bom dia! Me chamo Ruan nacimento, agradeço o envio do comrprovante ajudo em alg
 Poderia me informar o CPF do titular, por gentileza?
 ```
 
-### CPF já enviado <br><br>
+### Vou verificar no sistema
 ```text
 Estarei conferindo verificando no sistema, Só um momento por gentileza 
 ```
