@@ -1,3 +1,4 @@
+### Informar da abertura
 ```text
 Como não conseguimos normalizar sua conexão com os recursos disponíveis remotamente, estarei abrindo um atendimento para que nosso setor responsável possa analisar seu caso com mais profundidade. Em caso de visita técnica, estaria disponível para receber os técnicos no período da manhã ou no período da tarde?
 ```
