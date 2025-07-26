@@ -7,7 +7,7 @@ Bom dia! Me chamo Ruan nascimento, estarei realizando seu atendimento hoje. Como
 Bom dia! Me chamo Ruan nascimento, estarei dando continuidade ao seu atendimento
 ```
 ```text
-Bom dia! Me chamo Ruan nascimento, agradeço o envio do comrprovante ajudo em algo mais? 
+Bom dia! Me chamo Ruan nascimento, agradeço o envio do comprovante ajudo em algo mais? 
 ```
 ```text
 Poderia me informar o CPF do titular, por gentileza?
