@@ -1,13 +1,13 @@
 # mensagens padrões 
 
 ```text
-Bom dia! Me chamo Ruan nacimento, estarei realizando seu atendimento hoje. Como posso ajudar?
+Bom dia! Me chamo Ruan nascimento, estarei realizando seu atendimento hoje. Como posso ajudar?
 ```
 ```text
-Bom dia! Me chamo Ruan nacimento, estarei dando continuidade ao seu atendimento
+Bom dia! Me chamo Ruan nascimento, estarei dando continuidade ao seu atendimento
 ```
 ```text
-Bom dia! Me chamo Ruan nacimento, agradeço o envio do comrprovante ajudo em algo mais? 
+Bom dia! Me chamo Ruan nascimento, agradeço o envio do comrprovante ajudo em algo mais? 
 ```
 ```text
 Poderia me informar o CPF do titular, por gentileza?
