@@ -1,6 +1,6 @@
 ### Verificado no sistema OFF 
 ```text
-Verifiquei em nosso sistema que a sua conexão está apresentando o status offline. Para realizarmos a análise, poderia por gentileza enviar um vídeo curto ou imagens dos equipamentos de internet pra pdermo0s verificarmos por genitleza?
+Verifiquei em nosso sistema que a sua conexão está apresentando o status offline. Para realizarmos a análise, poderia por gentileza enviar um vídeo curto ou imagens dos equipamentos de internet pra pdermo0s verificarmos por gentileza?
 ```
 ### QUESTIONAR CABOS
 ```text
