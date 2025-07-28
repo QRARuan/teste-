@@ -8,7 +8,7 @@ Poderia confirmar se os cabos do modem/roteador estão bem conectados, por genti
 ```
 ### PROCEDIMENTO
 ```text
-Poderia por gentileza realizar o seguinte procedimento? Por gentileza, desligue os equipamentos da tomada, aguarde 3 minutos e depois reconecte-os. Este procedimento costuma resolver muitos problemas de conexão. Enquanto isso, fico à disposição para qualquer dúvida.
+Poderia realizar o seguinte procedimento? Por gentileza, desligue os equipamentos da tomada, aguarde 3 minutos e depois reconecte-os. Este procedimento costuma resolver muitos problemas de conexão. Enquanto isso, fico à disposição para qualquer dúvida.
 ```
 ### LOS 🔴
 ```text
