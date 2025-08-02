@@ -6,7 +6,7 @@ Verifiquei que a conexão da senhora está com o status online no sistema. Para 
 ```
 ### APPS
 ```text
-Certo, entendi. Para verificarmos possíveis interferências, poderia nos informar em quais aplicativos a internet apresentando este problema? Por exemplo: Whatsapp, Facebook, TikTok ou outros?
+Para verificarmos possíveis interferências, poderia nos informar em quais aplicativos a internet apresentando este problema? Por exemplo: Whatsapp, Facebook, TikTok ou outros?
 ```
 
 ### ACESSO REMOTO
