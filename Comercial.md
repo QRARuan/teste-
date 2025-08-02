@@ -7,7 +7,7 @@ Poderia me infiormar seu endereço completo por gentileza Rua, numero, bairro, c
 ```
 ### Encaminhamento para o setor responssavel 
 ```text
-Informo que foi encaminhado as dados para o setor responsavel estar verificando só aguardar que entraremos em contato de momento te ajudo emn algo mais? 
+Informo que foi encaminhado os dados para o setor responsavel estar verificando só aguardar que entraremos em contato de momento te ajudo emn algo mais? 
 ```
 ### Envia planos
 ```text
