@@ -23,10 +23,8 @@ Estarei conferindo verificando no sistema, Só um momento por gentileza
 Estou finalizando este atendimento por inatividade. ficamos no aguardo de seu retorno
 ```
 ```text
-```text
 Estou finalizando este atendimento por inatividade
 ```
-```text
 ```text
 Estou finalizando este atendimento por inatividade. Por favor retorne contato caso precise de auxílio. Desejamos um bom dia!
 ```
