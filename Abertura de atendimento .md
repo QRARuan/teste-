@@ -8,5 +8,5 @@ O setor responsável entrará em contato diretamente em horário comercial para 
 ```
 ### VISITA IMPRODUTIVA PADRÃO 💵
 ```text
-Existe uma taxa de R$ X,00 em casos de visita improdutiva, porém ela só se aplica em casos específicos, como problemas internos causados pelo próprio cliente (por exemplo: cabo invertido, cabo desplugado, roteador resetado ou travado ou problema na tomada). Tudo bem?
+Existe uma taxa de R$ xx em casos de visita improdutiva, porém ela só se aplica em casos específicos, como problemas internos causados pelo próprio cliente (por exemplo: cabo invertido, cabo desplugado, roteador resetado ou travado ou problema na tomada). e para clientes com lentidão/acesso lento a taxa pode ser aplicada caso no momento fa visita o técnico veja que seja o caso
 ```
