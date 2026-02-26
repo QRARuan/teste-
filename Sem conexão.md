@@ -19,10 +19,10 @@ Poderia confirmar se os cabos do modem/roteador estão bem conectados, por genti
 ```
 ### PROCEDIMENTO MANUAL 
 ```text
-Poderia realizar o seguinte procedimento? Por gentileza, desligue os equipamentos da tomada, aguarde 3 minutos e depois reconecte-os. Este procedimento costuma resolver muitos problemas de conexão. Enquanto isso, fico à disposição para qualquer dúvida.
+Poderia realizar o seguinte procedimento? desligue os equipamentos da tomada, aguarde 3 minutos e depois reconecte-os. Este procedimento costuma resolver muitos problemas de conexão, fico à disposição para qualquer dúvida.
 ```
 ### LOS 🔴
 ```text
-Informo luz LOS do aparelho em vermelho indica que o roteador não está recebendo não está recebendo o sinal de internet enviado pela fibra. Muitas vezes, isso ocorre devido a problemas externos. Poderia, por gentileza, estar conferindo se os cabos do aparelho estão bem conectados?
+Informo luz LOS do aparelho em vermelho indica que o roteador não está recebendo o sinal de internet enviado pela fibra. Muitas vezes, isso ocorre devido a problemas externos, Cabo de fibra solto, Cabo danificado ou dobrado
 ```
 
