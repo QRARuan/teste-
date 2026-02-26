@@ -2,7 +2,7 @@
 Verifiquei que a conexão do senhor está com o status online no sistema. Para nos ajudar a identificar o problema, poderia informar em quais dispositivos está enfrentando dificuldades? Por exemplo: TV, celular ou computador?
 ```
 ```text
-Verifiquei que a conexão da senhora está com o status online no sistema. Para nos ajudar a identificar o problema, poderia informar em quais dispositivos está enfrentando dificuldades? Por exemplo: TV, celular ou computador?
+Para nos ajudar a identificar o problema, poderia informar em quais dispositivos está enfrentando dificuldades? Por exemplo: TV, celular ou computador?
 ```
 ### APPS
 ```text
