@@ -23,7 +23,7 @@ Estarei conferindo verificando no sistema, Só um momento por gentileza
 Estou finalizando este atendimento por inatividade. ficamos no aguardo de seu retorno
 ```
 ```text
-Estou finalizando este atendimento por inatividade
+Estou finalizando este atendimento por inatividade lhe desejo um ótimo dia 
 ```
 ```text
 Estou finalizando este atendimento por inatividade. Por favor retorne contato caso precise de auxílio. Desejamos um bom dia!
@@ -33,7 +33,7 @@ Estou finalizando este atendimento por inatividade. Por favor retorne contato ca
 ```
 #### Término de Turno 🔄️
 ```text
-Informo que, devido ao término do meu horário de expediente, vou transferir seu atendimento para um de nossos colaboradorers, que dará continuidade à sua solicitação com toda a atenção necessária. Agradeço sua compreensão.
+Informo que, devido ao término de turno, vou transferir seu atendimento para outro de nossos atendentes, que dará continuidade à sua com toda a atenção necessária. Agradeço sua compreensão.
 ```
 #### Padrão ✅
 ```text
