@@ -1,9 +1,6 @@
 ### Solicitar endereço 
 ```text
-Poderia me informar seu endereço completo por gentileza para verificarmos a viabilidade em seu endereço? 
-```
-```text
-Poderia me informar seu endereço completo por gentileza Rua, numero, bairro, cidade, cep ?
+Poderia me informar seu endereço completo por gentileza para verificarmos a viabilidade em seu endereço? Rua, numero, bairro, cidade, cep ?
 ```
 ### Encaminhamento para o setor responssavel 
 ```text
